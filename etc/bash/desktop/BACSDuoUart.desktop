@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/bacs/host/DuoUart.sh
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=BACSDuoUart.desktop
+Name=BACSDuoUart
+Comment[en_US]=
+Comment=

@@ -1,0 +1,4 @@
+KERNEL=="video*", SUBSYSTEM=="video4linux", ATTRS{name}=="oCam*", SYMLINK+="usbOcam", GROUP="bacs"
+SUBSYSTEM=="tty", ATTRS{idVendor}=="0403", ATTRS{idProduct}=="6001", ATTRS{product}=="FT232R*", SYMLINK+="ttyUSBJJ", GROUP="bacs"
+SUBSYSTEM=="tty", ATTRS{idVendor}=="0403", ATTRS{idProduct}=="6015", SYMLINK+="ttyRFID", GROUP="bacs"
+SUBSYSTEM=="tty", ATTRS{idVendor}=="067b", ATTRS{idProduct}=="2303", SYMLINK+="ttyUSBLCD", GROUP="bacs"

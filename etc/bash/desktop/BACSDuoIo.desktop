@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/bacs/host/DuoIo.sh
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=BACSDuoIo
+Name=BACSDuoIo
+Comment[en_US]=
+Comment=

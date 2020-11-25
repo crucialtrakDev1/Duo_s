@@ -1,0 +1,7 @@
+
+#define VERSION_REQUIRED_MAJOR 1
+#define VERSION_REQUIRED_MINOR 0
+#define VERSION_REQUIRED_BUILD 2
+
+#define TOF_I2C_ADDR (0x52>>1)
+#define TOF_I2C_BUS "/dev/i2c-1"

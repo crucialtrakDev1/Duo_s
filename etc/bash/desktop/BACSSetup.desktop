@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/bacs/host/Setup.sh
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=BACSSetup
+Name=BACSSetup
+Comment[en_US]=
+Comment=

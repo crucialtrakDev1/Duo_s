@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/bacs/host/Verify.sh
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=BACSVerify
+Name=BACSVerify
+Comment[en_US]=
+Comment=

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/bacs/host/DuoWiegand.sh
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=BACSDuoWiegand
+Name=BACSDuoWiegand
+Comment[en_US]=
+Comment=

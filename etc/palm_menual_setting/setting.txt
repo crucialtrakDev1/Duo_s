@@ -1,0 +1,16 @@
+1. install dconf-editor
+[Term] cd /home/bacs/factorydefault/palm_menual_setting
+[Term] sudo dpkg -i ./dconf-editor_0.20.0-1_amd64.deb
+
+2. editor excute
+[Term] dconf-editor
+
+3. go preferences
+org -> gnome -> nautilus -> preferences
+
+4. change option
+executeable-text-activation 'display' -> 'lunch'
+
+5. menu exit
+
+6. make link file

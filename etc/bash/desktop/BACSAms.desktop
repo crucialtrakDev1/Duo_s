@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/bacs/host/Ams.sh
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=BACSAms
+Name=BACSAms
+Comment[en_US]=
+Comment=

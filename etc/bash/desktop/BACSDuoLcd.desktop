@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/bacs/host/DuoLcd.sh
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=BACSDuoLcd
+Name=BACSDuoLcd
+Comment[en_US]=
+Comment=

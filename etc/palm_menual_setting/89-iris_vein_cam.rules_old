@@ -1,0 +1,4 @@
+SUBSYSTEM=="usb", ENV{DEVTYPE}=="usb_device", ATTRS{idVendor}=="04b4", ATTRS{idProduct}=="00f9", MODE="0666"
+SUBSYSTEM=="usb", ENV{DEVTYPE}=="usb_device", ATTRS{idVendor}=="04b4", ATTRS{idProduct}=="00f8", MODE="0666"
+SUBSYSTEM=="usb", ENV{DEVTYPE}=="usb_device", ATTRS{idVendor}=="04c5", ATTRS{idProduct}=="1084", MODE="0666", RUN+="/usr/local/bin/palmvein_add_old.sh"
+

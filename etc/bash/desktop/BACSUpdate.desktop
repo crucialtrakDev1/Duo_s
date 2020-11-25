@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/bacs/host/Update.sh
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=BACSUpdate
+Name=BACSUpdate
+Comment[en_US]=
+Comment=
